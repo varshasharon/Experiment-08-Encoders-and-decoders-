@@ -102,7 +102,7 @@ endmodule
 
 
 ### RTL LOGIC  
-# ENCODER
+#### ENCODER
 
 
 
