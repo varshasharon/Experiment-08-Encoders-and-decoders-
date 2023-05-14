@@ -103,11 +103,13 @@ endmodule
 
 ### RTL LOGIC  
 #### ENCODER
+![image](https://github.com/varshasharon/Experiment-08-Encoders-and-decoders-/assets/98278161/3a7e5348-93c8-4766-b68c-514334a83b58)
 
 
 
-# DECODER
+#### DECODER
 
+![image](https://github.com/varshasharon/Experiment-08-Encoders-and-decoders-/assets/98278161/eb208783-e224-4813-90a6-507c2e089b30)
 
 
 
@@ -115,16 +117,29 @@ endmodule
 
 
 ### TIMING DIGRAMS  
+#### ENCODER
+![image](https://github.com/varshasharon/Experiment-08-Encoders-and-decoders-/assets/98278161/bcb92a3b-aaf1-4ba9-b01c-4a3f76ba89eb)
 
+
+
+#### DECODER
+![image](https://github.com/varshasharon/Experiment-08-Encoders-and-decoders-/assets/98278161/1eb78cb7-83ec-4da7-aa70-2ed67554e2d4)
 
 
 
 
 ### TRUTH TABLE 
+#### ENCODER
+![image](https://github.com/varshasharon/Experiment-08-Encoders-and-decoders-/assets/98278161/09ba98e4-238c-48a7-9542-68fa1558b897)
 
 
+
+#### DECODER
+
+![image](https://github.com/varshasharon/Experiment-08-Encoders-and-decoders-/assets/98278161/1b4dc9a6-cf7a-43e0-a0b5-5fde10b902b1)
 
 
 
 
 ### RESULTS 
+Thus, the program to design encoder and decoder is successfully completed.
